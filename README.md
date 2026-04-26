@@ -30,9 +30,6 @@ The goal of this project is to help stakeholders monitor sales performance, iden
 - Profit analysis by stock item.
 - Geographic sales performance comparison.
 
-## Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
-
 ## Files Included
 - Power BI dashboard file (.pbix)
 - Source dataset (.xlsx)
