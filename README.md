@@ -1,5 +1,8 @@
 # Item Sales Summary Dashboard
 
+## 🖼️ Dashboard Preview
+![Item Sales Summary Screenshot](dashboard_screenshot1.png)
+
 ## Project Overview
 This project presents an interactive sales performance dashboard built using Power BI. It provides comprehensive insights into sales, costs, profits, and profitability across multiple dimensions including time, geography, customers, and products.
 
