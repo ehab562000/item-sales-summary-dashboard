@@ -39,6 +39,6 @@ The goal of this project is to help stakeholders monitor sales performance, iden
 - Dashboard screenshot
 - Project documentation
 
-## Author
+# Author
 Ehab Maher Ebrahim
 Aspiring Data Analyst
